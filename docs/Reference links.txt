@@ -1,0 +1,7 @@
+Cpp_Practise repository link:  https://github.com/JohnBeckYiqiang/Cpp_Practise.git
+
+Cpp学习网址：
+https://en.cppreference.com/w/
+
+Awesome C++网址：Awesome-XXX 系列的资源整理，awesome-cpp 就是 fffaraz 发起维护的 C++ 资源列表，内容包括：标准库、Web 应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。（https://github.com/fffaraz/awesome-cpp）
+
